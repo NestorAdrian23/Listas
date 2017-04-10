@@ -1,0 +1,1 @@
+/home/nestoradrian/Listas/build/CMakeFiles/Listas.dir

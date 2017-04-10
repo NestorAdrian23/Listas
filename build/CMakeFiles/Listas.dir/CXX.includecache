@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Nodo.h
+iostream
+-
+
+/home/nestoradrian/Listas/src/Nodo.cpp
+Nodo.h
+/home/nestoradrian/Listas/src/Nodo.h
+
